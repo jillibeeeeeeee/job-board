@@ -1,0 +1,67 @@
+{
+  "jobs": [
+    {
+      "title": "Software Engineer",
+      "company": "Acme Inc.",
+      "location": "San Francisco, CA",
+      "description": "We are looking for a talented software engineer to join our team.",
+      "applyLink": "https://example.com/apply"
+    },
+    {
+      "title": "Product Manager",
+      "company": "Beta Corp.",
+      "location": "New York, NY",
+      "description": "We are seeking an experienced product manager to lead our product team.",
+      "applyLink": "https://example.com/apply"
+    },
+    {
+      "title": "Marketing Specialist",
+      "company": "Gamma Co.",
+      "location": "Chicago, IL",
+      "description": "We are looking for a marketing specialist to help promote our brand.",
+      "applyLink": "https://example.com/apply"
+    },
+
+    {
+      "title": "Software Developer",
+      "company": "Acme Inc.",
+      "location": "San Francisco, CA",
+      "description": "Acme Inc. is seeking a talented software developer to join our team.",
+      "applyLink": "https://example.com/apply"    
+    },
+
+    {
+      "title": "Product Manager",
+      "company": "XYZ Corp.",
+      "location": "New York, NY",
+      "description": "XYZ Corp. is seeking an experienced product manager to lead our product development team.",
+      "applyLink": "https://example.com/apply"
+    },
+
+    {
+      "title": "Marketing Specialist",
+      "company": "ABC Co.",
+      "location": "Los Angeles, CA",
+      "description": "ABC Co. is looking for a marketing specialist to develop and execute marketing campaigns.",
+      "applyLink": "https://example.com/apply"
+    },
+
+    {
+
+      "title": "Data Analyst",
+      "company": "Data Insights LLC",
+      "location": "Chicago, IL",
+      "description": "Data Insights LLC is seeking a data analyst to analyze and interpret complex data sets.",
+      "applyLink": "https://example.com/apply"
+      },
+
+    {
+      "title": "Graphic Designer",
+      "company": "Creative Minds Agency",
+      "location": "Miami, FL",
+      "description": "Creative Minds Agency is looking for a talented graphic designer to create compelling visual content.",
+      "applyLink": "https://example.com/apply"
+    }
+
+  ]
+}
